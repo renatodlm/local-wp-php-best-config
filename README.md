@@ -1,0 +1,1 @@
+# local-wp-php-best-config
